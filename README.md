@@ -1,4 +1,4 @@
-Enterprise Banking Management System
+ Enterprise Banking Management System
 
 A console-based Banking Management System built in Python, demonstrating core Object-Oriented Programming principles (Abstraction, Encapsulation, Inheritance, Polymorphism) combined with a MySQL database backend for persistent, secure data storage.
 
